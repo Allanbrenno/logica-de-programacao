@@ -3,7 +3,7 @@
 # ARQUIVO: av2_sistema_modular.py
 # Nome do Aluno: Allan
 # Data: 17/09/2026
-# Link do Repositório:
+# Link do Repositório: https://github.com/Allanbrenno/logica-de-programacao/blob/main/av2_sistema_modular.py
 # ==============================================================================
 
 # Lista inicial de dados brutos
